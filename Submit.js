@@ -1,0 +1,9 @@
+<!Doctyp html>
+<html>
+<body>
+	
+	<script type="text/javascript">
+		alert('Hello JavaScript');
+	</script>
+</body>
+</html>
